@@ -1,5 +1,5 @@
 {
-  "name": "spdy-transport",
+  "name": "donejs-spdy-transport",
   "version": "2.0.20",
   "main": "lib/spdy-transport",
   "description": "SPDY v2, v3, v3.1 and HTTP2 transport",
